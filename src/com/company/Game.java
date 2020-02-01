@@ -92,14 +92,17 @@ public class Game {
     public static void main(String[] args) {
         // run game
         Game game = new Game();
-        while (compScore != 5 || playerScore != 5) {
+        while (compScore != 5 && playerScore != 5) {
             game.playGame();
             roundCount++;
         }
-        if (compScore == 5){
+        if (compScore == 5) {
             System.out.println("Computer wins");
-        } else if (playerScore == 5) {
+            return;
+        }
+        if (playerScore == 5) {
             System.out.println("Player wins");
+            return;
         }
 
     }
