@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a5611b8-cbb5-4d1d-9617-ca875c03c485" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XAtb8AidOhRR0ekhb8xGAEBT30" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Game" />
+      <module name="learn-java" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a5611b8-cbb5-4d1d-9617-ca875c03c485" name="Default Changelist" comment="" />
+      <created>1580500795741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580500795741</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom" timestamp="1580540305014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="314" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.9.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580502664195" />
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580540305014" />
+    <state width="1493" height="2" key="GridCell.Tab.0.center" timestamp="1580540305014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="314" key="GridCell.Tab.0.center/0.0.1536.824/-1920.9.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580502664195" />
+    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580540305014" />
+    <state width="1493" height="2" key="GridCell.Tab.0.left" timestamp="1580540305013">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="314" key="GridCell.Tab.0.left/0.0.1536.824/-1920.9.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580502664195" />
+    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580540305013" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right" timestamp="1580540305014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="314" key="GridCell.Tab.0.right/0.0.1536.824/-1920.9.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580502664195" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580540305014" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1580539549618">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580539549618" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1580539549618">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580539549618" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1580539549617">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580539549617" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1580539549618">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580539549618" />
+    <state x="2379" y="61" key="SettingsEditor" timestamp="1580501064476">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="367" y="48" key="SettingsEditor/0.0.1536.824/-1920.9.1920.1040/1920.0.1920.1040@0.0.1536.824" timestamp="1580500882692" />
+    <state x="2379" y="61" key="SettingsEditor/0.0.1536.824/-1920.9.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580501064476" />
+    <state x="490" y="154" width="540" height="524" key="StructurePopup" timestamp="1580531563406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="154" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1580531563406" />
+    <state x="2685" y="326" key="com.intellij.ide.util.TipDialog" timestamp="1580504044887">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="612" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.9.1920.1040/1920.0.1920.1040@0.0.1536.824" timestamp="1580500802862" />
+    <state x="2685" y="326" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.9.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580504044887" />
+  </component>
+</project>
